@@ -20,7 +20,8 @@ Maintain a simple table with:
 - Monitor: review at weekly syncs and update status
 
 ## Stakeholder Communication
-- Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
+- Identify stakeholder groups and communication needs (e.g., engineering, sales, support, customers)
+- Include the **Customer Support Lead** in stakeholder identification — they represent the customer voice and need advance notice of changes
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
 
@@ -39,4 +40,7 @@ Incident Communication
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- For security/privacy incidents, follow the security incident runbook and notify Security on-call immediately; do not wait for regular sync cadence
+- For customer-impacting incidents, notify the **Customer Support Lead** at the same time as PM escalation so they can manage customer communication
+
+See [Roles and Personas](./octoacme-roles-and-personas.md) for the full list of roles and their communication responsibilities.

@@ -25,8 +25,10 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Reporting & Metrics
 - Track velocity and burndown
-- Monitor success metrics identified in the Project One-pager
+- Monitor success metrics identified in the Project One-pager (owned by Product Manager, instrumented with **Data Analyst / Analytics Partner**)
 - Use dashboards for key signals (errors, latency, usage)
+- Ensure analytics instrumentation is implemented before release so post-launch impact can be measured
+- Include **UX Designer** feedback in sprint demos when user-facing features are reviewed
 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup
